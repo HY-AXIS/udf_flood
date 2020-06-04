@@ -21,4 +21,7 @@ dependencies:
   - widgetsnbextension
   - ipywidgets
   - nodejs
+  pip:
+  - menuinst
+  - powershell_shortcut
 prefix: C:\Users\hasnayn.yousaf\AppData\Local\Continuum\anaconda3
