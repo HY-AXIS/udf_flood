@@ -3,6 +3,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
+- pip:
   - _ipyw_jlab_nb_ext_conf=0.1.0=py37_0
   - affine=2.3.0=py_0
   - alabaster=0.7.12=py37_0
@@ -316,7 +317,6 @@ dependencies:
   - zipp=0.6.0=py_0
   - zlib=1.2.11=h62dcd97_3
   - zstd=1.3.7=h508b16e_0
-  - pip:
     - async-generator==1.10
     - branca==0.4.0
     - folium==0.10.1
